@@ -1,0 +1,14 @@
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.AssemblyInfoInputs.cache
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.AssemblyInfo.cs
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.csproj.CoreCompileInputs.cache
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\bin\Debug\net8.0\04.exe
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\bin\Debug\net8.0\04.deps.json
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\bin\Debug\net8.0\04.runtimeconfig.json
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\bin\Debug\net8.0\04.dll
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\bin\Debug\net8.0\04.pdb
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.dll
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\refint\04.dll
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.pdb
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\04.genruntimeconfig.cache
+C:\Users\cauaa\Desktop\Estagio-ADS-Target\04\obj\Debug\net8.0\ref\04.dll

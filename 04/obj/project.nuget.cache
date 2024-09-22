@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhtdUzULCToWmkmx3n6XvTTWQwUVeW9zL2Ol61r8rJT8Earsc3iOHvWf985vsgrex5DURvV8/EuSOEXBK8H4/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cauaa\\Desktop\\Estagio-ADS-Target\\04\\04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cauaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.4\\microsoft.aspnetcore.app.ref.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
